@@ -112,7 +112,7 @@ Focused on **pixel-perfect design**, **responsiveness**, and **accessibility**.
 
 ---
 
-## 🧑‍💼 Work Experience
+## Work Experience
 
 - **Student Assistant – Computer Lab**  
   *University of Limpopo, ICT Department*  
@@ -141,6 +141,6 @@ This portfolio is created for educational and professional development purposes.
 
 ---
 
-### 🙌 Thank You for Visiting!
+### Thank You for Visiting!
 
 Feel free to reach out via [email](mailto:matlakalakabelo1@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/kabelo-matlakala). I'm open to internships, freelance opportunities, and junior dev roles!
