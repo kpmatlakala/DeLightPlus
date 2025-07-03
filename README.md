@@ -1,6 +1,8 @@
 # Kabelo Peter Matlakala – Developer Portfolio
 
-Welcome! I'm **Kabelo Peter Matlakala**, a Junior Web Developer with a strong foundation in **Mathematical Sciences** and hands-on experience in modern **web and mobile development**.
+Welcome! I'm **Kabelo Peter Matlakala**, 
+
+a Junior Web Developer with a strong foundation in **Mathematical Sciences** and hands-on experience in modern **web and mobile development**.
 
 ---
 
