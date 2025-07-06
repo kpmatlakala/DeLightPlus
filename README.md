@@ -1,4 +1,4 @@
-# Kabelo Peter Matlakala – Developer Portfolio
+# Portfolio
 
 Welcome! I'm **Kabelo Peter Matlakala**, 
 
