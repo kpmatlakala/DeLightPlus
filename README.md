@@ -12,7 +12,7 @@ a Junior Web Developer with a strong foundation in **Mathematical Sciences** and
 - **Location:** Polokwane, Limpopo, South Africa  
 - **Email:** [matlakalakabelo1@gmail.com](mailto:matlakalakabelo1@gmail.com)  
 - **Phone:** [+27 72 713 8367](tel:+27727138367)  
-- **LinkedIn:** [linkedin.com/in/kabelo-matlakala](https://linkedin.com/in/kabelo-matlakala)  
+- **LinkedIn:** [linkedin.com/in/kabelo-matlakala](https://www.linkedin.com/in/kabelo-matlakala-704349273)  
 - **GitHub:** [github.com/DeLightPlus](https://github.com/DeLightPlus)  
 
 ### 🎓 Education & Training
