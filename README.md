@@ -51,35 +51,6 @@ HTML · CSS · JavaScript · TypeScript · SQL · **Python** · PHP (basic)
 Git · GitHub · Figma · Canva · Agile / Scrum  
 **AI Coding Assistants** (e.g. GitHub Copilot) · **Data Analysis** (Pandas, NumPy)  
 
--> View my [Skills Matrix](src/components/portfolio/Skills/SkillsMatrix.jsx)
-
----
-
-## Projects
-
-### 🔹 **Individual Projects**
-- **Weather App**  
-  Real-time weather updates using OpenWeatherMap API  
-  [GitHub](https://github.com/DeLightPlus/weather-app)
-
-- **ShoppingList App**  
-  Redux Toolkit for state management, with persistent local storage  
-
-- **TodoList App**  
-  Full CRUD functionality using SQLite3, task filtering UI  
-
-- **E-Commerce Storefront**  
-  Fully responsive front-end built with React and Tailwind CSS  
-
-- **Online Recipe Manager**  
-  Local storage integration, dynamic recipe filters and management  
-
----
-
-### 🔸 **Group Projects**
-- **Restaurant Reservation System**  
-  Built collaboratively using React, Redux, Firebase, and Node.js  
-
 ---
 
 ## Mini Projects
@@ -143,4 +114,4 @@ This portfolio is created for educational and professional development purposes.
 
 ### Thank You for Visiting!
 
-Feel free to reach out via [email](mailto:matlakalakabelo1@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/kabelo-matlakala). I'm open to internships, freelance opportunities, and junior dev roles!
+Feel free to reach out via [email](mailto:matlakalakabelo1@gmail.com) or connect on [LinkedIn]([https://linkedin.com/in/kabelo-matlakala](https://www.linkedin.com/in/kabelo-matlakala-704349273/)). I'm open to internships, freelance opportunities, and junior dev roles!
