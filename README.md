@@ -53,22 +53,6 @@ Git · GitHub · Figma · Canva · Agile / Scrum
 
 ---
 
-## Mini Projects
-
-### 🎮 Mini Games Collection  
-A set of classic and casual games developed using **HTML**, **CSS**, and **JavaScript**.  
-Emphasis on DOM manipulation, game logic, and responsive UI.
-
-**Games Included:**
-- Memory Game
-- Rock-Paper-Scissors
-- Number Guessing Game
-- Tic-Tac-Toe
-
-📁 [Source Code](https://delightplus-portfolio.vercel.app/mini-games/game-manager.html)
-
----
-
 ### 💻 Frontend Mentor Challenges  
 A compilation of completed UI challenges based on real-world layouts and user stories.  
 Focused on **pixel-perfect design**, **responsiveness**, and **accessibility**.
@@ -79,7 +63,6 @@ Focused on **pixel-perfect design**, **responsiveness**, and **accessibility**.
 - Interactive Rating Component
 
 📁 [View Challenge Code](https://delightplus-portfolio.vercel.app/frontend-mentor-challenges/index.html)
-
 
 ---
 
