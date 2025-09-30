@@ -13,7 +13,7 @@ a Junior Web Developer with a strong foundation in **Mathematical Sciences** and
 - **Email:** [matlakalakabelo1@gmail.com](mailto:matlakalakabelo1@gmail.com)  
 - **Phone:** [+27 72 713 8367](tel:+27727138367)  
 - **LinkedIn:** [linkedin.com/in/kabelo-matlakala](https://www.linkedin.com/in/kabelo-matlakala-704349273)  
-- **GitHub:** [github.com/DeLightPlus](https://github.com/kpmatlakala)  
+- **GitHub:** [github.com/kpmalakala](https://github.com/kpmatlakala)  
 
 ### 🎓 Education & Training
 - **BSc in Mathematical Sciences**, University of Limpopo  
