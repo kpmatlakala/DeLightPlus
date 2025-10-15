@@ -2,7 +2,7 @@
 
 Welcome! I'm **Kabelo Peter Matlakala**, 
 
-a Junior Web Developer with a strong foundation in **Mathematical Sciences** and hands-on experience in modern **web and mobile development**.
+a Junior Software Developer with a strong foundation in **Mathematical Sciences** and hands-on experience in modern **web and mobile development**.
 
 ---
 
@@ -49,7 +49,7 @@ I'm currently expanding my expertise in:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ### **Languages**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
