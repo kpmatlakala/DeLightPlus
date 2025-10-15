@@ -73,19 +73,6 @@ I'm currently expanding my expertise in:
 
 ---
 
-### 💻 Frontend Mentor Challenges  
-A compilation of completed UI challenges based on real-world layouts and user stories.  
-Focused on **pixel-perfect design**, **responsiveness**, and **accessibility**.
-
-**Challenges Include:**
-- Results Summary Component
-- Stats Preview Card
-- Interactive Rating Component
-
-📁 [View Challenge Code](https://delightplus-portfolio.vercel.app/frontend-mentor-challenges/index.html)
-
----
-
 ## Work Experience
 
 - **Student Assistant – Computer Lab**  
@@ -101,11 +88,17 @@ Focused on **pixel-perfect design**, **responsiveness**, and **accessibility**.
   *2024 – 2025*  
   Working on real-world projects using Agile methodologies and collaborative version control.
 
----
+- **Freelancing - Frontend Mentor**
+  *2025*
+  A compilation of completed UI challenges based on real-world layouts and user stories.  
+  Focused on **pixel-perfect design**, **responsiveness**, and **accessibility**.
 
-## 📄 Resume
+  **Challenges Include:**
+  - Results Summary Component
+  - Stats Preview Card
+  - Interactive Rating Component
 
-📥 [Download My Latest Resume (PDF)](src/assets/Mr-Kabelo-Peter-Matlakala-Resume-20241024.pdf)
+  📁 [View Challenge Code](https://kpm-frontendmentor.vercel.app/)
 
 ---
 
